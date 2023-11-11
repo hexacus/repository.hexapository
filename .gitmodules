@@ -1,2 +1,4 @@
-[submodule "repo/plugin.program.HexWiz"]
+[submodule "master/repo/plugin.program.HexWiz"]
+	path = master/repo/plugin.program.HexWiz
 	url = https://github.com/hexacus/plugin.program.HexWiz
+	branch = master
