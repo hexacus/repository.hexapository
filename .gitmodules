@@ -1,6 +1,0 @@
-[submodule "repo/plugin.program.HexWiz"]
-	url = https://github.com/hexacus/plugin.program.HexWiz.git
-
-path = repo/plugin.program.HexWiz
-	url = https://github.com/hexacus/plugin.program.HexWiz.git
-	branch = main
