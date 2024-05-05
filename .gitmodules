@@ -1,0 +1,3 @@
+[submodule "plugin.program.HexWiz"]
+	path = plugin.program.HexWiz
+	url = https://github.com/hexacus/plugin.program.HexWiz.git
